@@ -61,10 +61,11 @@ To register a prefix, fork this repository and create a Pull Request adding
 your prefix and the person or organization that will be responsible for it.
 
 * `poise` - [coderanger](https://github.com/coderanger)
-* `sigsci` - [signalsciences] (https://github.com/signalsciences)
+* `sigsci` - [signalsciences](https://github.com/signalsciences)
 * `gcp` - [googlecloudplatform](https://github.com/googlecloudplatform)
 * `fb` - [Faceboook](https://github.com/facebook)
 * `blp` - [Bloomberg](https://github.com/bloomberg)
+* `nginxinc` - [nginxinc](https://github.com/nginxinc)
 
 ## Copyright
 
